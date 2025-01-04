@@ -1,2 +1,2 @@
-# data-analysis
-Some Data Analysis projects I used to progress and master necessary concepts
+# data-science
+Projects within multiple sectors of data science that enhanced my overall skills.
